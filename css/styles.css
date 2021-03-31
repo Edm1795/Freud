@@ -1,0 +1,72 @@
+/* */
+
+/* Font Used: Open sans condensed by Steve Matteson */
+
+.navbar-custom { 
+    background-color: #803476; 
+} 
+
+#blob{
+	color:white;
+}
+
+body{
+	background-color:#ededed;
+}
+/* --- Previous style for colouring the navbar --> .bg-light{
+	background-color:#803476 !important;
+} */
+
+ 
+
+/* Company Logo */
+
+.navbar-light .navbar-brand{
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: white;
+	font-size: 40px;
+}
+
+
+
+
+/* "Menu" at top centre of page */
+#menu-heading{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+/* "Chicken", "Beef", "Sushi" for three categories of meats  */
+.food-type-sub-heading{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	}
+
+/* Paragraphs describing each meat category */
+.food-description{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight:normal;
+	font-size: 25px;
+	}
+
+
+				/* --- Media Queries:  Medium size and Higher--- */
+
+				@media (min-width: 768px) {
+
+				/* do not display menu icon on medium size or higher */	
+					.navbar-toggler  {
+						display:none;
+					}
+
+				}
+				/* --- Media Queries:  Small size and Lower--- */
+				@media(max-width: 567px){
+					#menu-break{
+						display:none;
+					}
+				}
