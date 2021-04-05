@@ -1,3 +1,19 @@
+
+
+// targets colour of brand in navbar .navbar-light .navbar-brand {
+//  color: rgba(0, 0, 0, 0.9);
+// }
+
+
+
+#titlepage-box {
+  padding: 10px;
+  border: 5px solid #1c95a5;
+  margin: 20px;
+  background: #023e3a;
+  height: 250px;
+}
+
 $theme-colors: (
   "primary": #521752,
   "danger": #ff4136
@@ -15,6 +31,29 @@ $link-color: (
 #0ced11
 );
 
+$navbar-brand-font-size: (
+2.5rem
+);
+
+$h1-font-size: (
+1.5rem
+);
+
+h1 {
+  text-align: center;
+}
+
+
+
+// used to style title of page butchanged to h1 tag  .title { text-align: center;
+//  }
+
+// this effects the navbar title + menu links $navbar-light-active-color: (
+// #1de619
+// );
+
+
+
 //.. Font: Open sans condensed by Steve Matteson //..
 $font-family-sans-serif: (
 'Open Sans Condensed', sans-serif
@@ -22,7 +61,6 @@ $font-family-sans-serif: (
 
 .menubutton {padding-top: 0px;
 padding-bottom: 3px}
-
 
 
 
