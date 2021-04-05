@@ -12,6 +12,16 @@ h1 {
   text-align: center;
 }
 
+/********** Extra Small devices only **********/
+@media (max-width: 576px) {
+  #section-title-box {
+    padding: 10px;
+    border: 2px solid #000000;
+    margin: 20px;
+    background: #162e2e;
+    height: 175px;
+  }
+}
 .menubutton {
   padding-top: 0px;
   padding-bottom: 3px;
