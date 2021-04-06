@@ -12,16 +12,30 @@ h1 {
   text-align: center;
 }
 
-/********** Extra Small devices only **********/
-@media (max-width: 576px) {
-  #section-title-box {
-    padding: 0px;
-    border: 0px;
-    margin: 0px;
-    background: #162e2e;
-    height: 175px;
-  }
+
+/* Formatting of Title Page  */
+.Title-page {
+  display: flex;
 }
+
+.Title-page > p {
+  flex: 1 1 50%;
+  margin: 5px;
+  border: 1px solid black;
+}
+
+/* Formatting of Main Text */
+.Paragraph {
+  display: flex;
+}
+
+.Paragraph > p {
+  flex: 1 1 50%;
+  margin: 5px;
+  border: 1px solid black;
+}
+
+
 .menubutton {
   padding-top: 0px;
   padding-bottom: 3px;
