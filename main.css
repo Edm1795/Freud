@@ -11,6 +11,10 @@
 h1 {
   text-align: center;
 }
+/* Style Author in heading */
+h1 span {
+  font-size: 1.5rem
+}
 
 
 /* Formatting of Title Page  */
