@@ -8,20 +8,14 @@
   height: 275px;
 }
 
-/* responsive image CSS */
-.responsive-image{
-  max-width: 100%;
-  height: auto;
-}
-
+/* original font colour: #c8c4fa */
 h1 {
   text-align: center;
 }
-/* Style Author in heading */
-h1 span {
-  font-size: 1.5rem
-}
 
+h1 span {
+  font-size: 1.5rem;
+}
 
 /* Formatting of Title Page  */
 .Title-page {
@@ -44,7 +38,6 @@ h1 span {
   margin: 5px;
   border: 1px solid black;
 }
-
 
 .menubutton {
   padding-top: 0px;
@@ -114,7 +107,6 @@ body {
   color: #dfddfe;
   text-align: left;
   background-color: #162e2e;
-  /* original font colour: #c8c4fa */
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -1699,7 +1691,7 @@ pre code {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #c8c4fa;
+  color: #dfddfe;
 }
 .table th,
 .table td {
@@ -1744,7 +1736,7 @@ pre code {
 }
 
 .table-hover tbody tr:hover {
-  color: #c8c4fa;
+  color: #dfddfe;
   background-color: rgba(0, 0, 0, 0.075);
 }
 
@@ -2098,7 +2090,7 @@ select.form-control:focus::-ms-value {
   margin-bottom: 0;
   font-size: 1rem;
   line-height: 1.5;
-  color: #c8c4fa;
+  color: #dfddfe;
   background-color: transparent;
   border: solid transparent;
   border-width: 1px 0;
@@ -2437,7 +2429,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #c8c4fa;
+  color: #dfddfe;
   text-align: center;
   vertical-align: middle;
   user-select: none;
@@ -2455,7 +2447,7 @@ textarea.form-control {
   }
 }
 .btn:hover {
-  color: #c8c4fa;
+  color: #dfddfe;
   text-decoration: none;
 }
 .btn:focus, .btn.focus {
@@ -3021,7 +3013,7 @@ input[type=button].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #c8c4fa;
+  color: #dfddfe;
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -5047,7 +5039,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   background-color: #f8f9fa;
 }
 .list-group-item-action:active {
-  color: #c8c4fa;
+  color: #dfddfe;
   background-color: #e9ecef;
 }
 
@@ -5829,7 +5821,7 @@ a.close.disabled {
 
 .popover-body {
   padding: 0.5rem 0.75rem;
-  color: #c8c4fa;
+  color: #dfddfe;
 }
 
 .carousel {
@@ -9843,7 +9835,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-body {
-  color: #c8c4fa !important;
+  color: #dfddfe !important;
 }
 
 .text-muted {
