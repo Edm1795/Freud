@@ -8,6 +8,12 @@
   height: 275px;
 }
 
+/* responsive image CSS */
+.responsive-image{
+  max-width: 100%;
+  height: auto;
+}
+
 h1 {
   text-align: center;
 }
@@ -105,9 +111,10 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #c8c4fa;
+  color: #dfddfe;
   text-align: left;
   background-color: #162e2e;
+  /* original font colour: #c8c4fa */
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
