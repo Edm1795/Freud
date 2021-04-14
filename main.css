@@ -8,7 +8,22 @@
   height: 275px;
 }
 
+.navbar {
+  border-bottom: 3px solid black;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
 /* original font colour: #c8c4fa */
+/* subtitle to Classic Texts (author surname) */
+.navbar-brand span {
+  font-size: 1.5rem;
+}
+
 h1 {
   text-align: center;
 }
