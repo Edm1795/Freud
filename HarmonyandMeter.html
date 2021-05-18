@@ -12,6 +12,8 @@
 
 <title>Classic Texts</title>
 
+
+
 <link rel="stylesheet" href="css/bootstrap.css" >
 
 <link rel="stylesheet" href="main.css" >
@@ -69,7 +71,7 @@
 <!-- <p class="title"> -->
 <!-- ============= Title to entire page, not placed in column =========== -->
 <p>
-<h1>
+<h1 id="title">
      The Nature of Harmony and Meter (1853)<br>
      Bilingual Edition<br>
      <span>Moritz Hauptmann<span>
@@ -78,9 +80,18 @@
 <h4 id='date'>hi here</h4>
 </p>
 
+<p>
+
+  <input id="name" type="text">
+  <button onclick="sayHello();">
+    Say it here!
+  </button>
 
 
-<div class="Title-page">
+<div id="content"> </div>
+
+
+<div id="Title-page" class="Title-page">
 
 <!-- English Title Page   -->
   <p>
@@ -222,12 +233,13 @@ the higher note is denoted by the smaller number.
 
   <p>
     <!-- First graph series 1 - 16 -->
-    <img src="1 English series 1 - 16.svg" style="width: 100%; height: auto;">
+    <img src="1 English series 1 - 16.svg" style="width: auto; height: auto;">
   </p>
 
   <p>
     <!-- First graph series 1 - 16 -->
-    <img src="1 English series 1 - 16.svg" style="width: 100%; height: auto;">
+    <img src="1 German series 1 - 16.svg" style="width: auto; height: auto;">
+    <!-- Use width = 100% to keep svg in box but unresponsive. -->
   </p>
 
 </div>
