@@ -29,7 +29,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="184.94936"
+     inkscape:cx="243.54351"
      inkscape:cy="78.060117"
      inkscape:document-units="mm"
      inkscape:current-layer="text12-5"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -227,6 +227,23 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, ';fill:#dfddfe;fill-opacity:1;stroke-width:0.26458332"
          id="path484"
          inkscape:connector-curvature="0" />
+      <g
+         aria-label="..."
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#dfddfe;fill-opacity:1;stroke:none;stroke-width:0.07000434"
+         id="text1505">
+        <path
+           d="m 108.21188,48.94643 q 0.0972,0 0.1633,0.06821 0.0661,0.06614 0.0661,0.16123 0,0.09508 -0.0682,0.163298 -0.0661,0.06614 -0.16123,0.06614 -0.0951,0 -0.16329,-0.06614 -0.0662,-0.06821 -0.0662,-0.163298 0,-0.09715 0.0662,-0.163297 0.0682,-0.06615 0.16329,-0.06615 z"
+           style="font-size:4.23333311px;fill:#dfddfe;fill-opacity:1;stroke-width:0.07000434"
+           id="path2050" />
+        <path
+           d="m 109.27022,48.94643 q 0.0971,0 0.16329,0.06821 0.0662,0.06614 0.0662,0.16123 0,0.09508 -0.0682,0.163298 -0.0661,0.06614 -0.16123,0.06614 -0.0951,0 -0.1633,-0.06614 -0.0662,-0.06821 -0.0662,-0.163298 0,-0.09715 0.0662,-0.163297 0.0682,-0.06615 0.1633,-0.06615 z"
+           style="font-size:4.23333311px;fill:#dfddfe;fill-opacity:1;stroke-width:0.07000434"
+           id="path2052" />
+        <path
+           d="m 110.32855,48.94643 q 0.0971,0 0.1633,0.06821 0.0661,0.06614 0.0661,0.16123 0,0.09508 -0.0682,0.163298 -0.0661,0.06614 -0.16123,0.06614 -0.0951,0 -0.1633,-0.06614 -0.0661,-0.06821 -0.0661,-0.163298 0,-0.09715 0.0661,-0.163297 0.0682,-0.06615 0.1633,-0.06615 z"
+           style="font-size:4.23333311px;fill:#dfddfe;fill-opacity:1;stroke-width:0.07000434"
+           id="path2054" />
+      </g>
     </g>
     <g
        aria-label="  "
@@ -434,5 +451,5 @@
            height="156"
            x="-27.15094"
            y="-48.620258" /></flowRegion><flowPara
-         id="flowPara383"></flowPara></flowRoot>  </g>
+         id="flowPara383" /></flowRoot>  </g>
 </svg>
